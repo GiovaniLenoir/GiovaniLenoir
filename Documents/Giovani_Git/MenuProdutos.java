@@ -3,6 +3,9 @@ package com.loja.ui;
 
 import com.loja.gerenciador.GerenciadorProdutos;
 import com.loja.modelo.Produto;
+import com.loja.exception.ProdutoException;
+import com.loja.exception.ValidacaoException;
+
 import java.util.List;
 import java.util.Scanner;
 
