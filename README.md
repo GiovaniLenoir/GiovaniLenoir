@@ -6,7 +6,7 @@ Estou estudando Modelagem de Sistemas
 
 ## 🛠️ Minhas habilidades
 
-**Linguagens**: Java
+**Linguagem de Programação**: Java
 **Banco de dados**: MySQL, HeidiSQL
 **Ferramentas**: Git
 
