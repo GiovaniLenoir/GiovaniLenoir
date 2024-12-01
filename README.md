@@ -12,7 +12,7 @@ Estou estudando Modelagem de Sistemas
 
 **Banco de dados**: MySQL, HeidiSQL
 
-**Ferramentas**: Git
+**Ferramentas**: Git, GitHub
 
 ## 🚀 Meus Projetos
 
