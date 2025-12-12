@@ -6,8 +6,6 @@ Atualmente estudo **Java**, **Modelagem de Sistemas**, bancos de dados e fundame
 Busco minha primeira oportunidade na área de **Desenvolvimento** ou **Suporte Técnico**, aplicando o que venho aprendendo e evoluindo meus conhecimentos todos os dias.
 
 
-## 🛠️ Minhas habilidades
-
 ## 🛠️ Habilidades Técnicas
 
 - Lógica de Programação
@@ -39,6 +37,7 @@ Busco minha primeira oportunidade na área de **Desenvolvimento** ou **Suporte T
 
 -Mais projetos voce acompanha em meu GitHub.
 
+
 # 🎓 Formação e Experiência Prática
 
 - 🎓 **Cursando Desenvolvimento de Sistemas – SENAI**
@@ -51,6 +50,7 @@ Busco minha primeira oportunidade na área de **Desenvolvimento** ou **Suporte T
   
 - 🧠 Lógica de Programação aplicada na prática
 
+
  ## 📫 Como entrar em contato
  
   -E-mail: (gionanilenoir@gmail.com)
@@ -58,6 +58,7 @@ Busco minha primeira oportunidade na área de **Desenvolvimento** ou **Suporte T
   -LinkedIn: (https://www.linkedin.com/in/giovani-lenoir-677039316)
   
   -GitHub: (https://github.com/GiovaniLenoir/GiovaniLenoir)
+
 
 ## 🌱 Meus Interesses
 
