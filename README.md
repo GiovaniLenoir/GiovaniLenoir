@@ -24,7 +24,7 @@ Busco minha primeira oportunidade na área de **Desenvolvimento** ou **Suporte T
 ## 🚀 Meus Projetos
 
 [**CRUD Gerenciamento de produtos em java puro**](https://github.com/GiovaniLenoir/GiovaniLenoir)):Este é um sistema simples que permite que os usuários cadastrem, busquem, atualizem e excluam produtos.
--Mais projetos voce acompanha em meu GitHub.
+- Mais projetos voce acompanha em meu GitHub.
 
 
 # 🎓 Formação e Experiência Prática
@@ -36,12 +36,11 @@ Busco minha primeira oportunidade na área de **Desenvolvimento** ou **Suporte T
 - 🧠 Lógica de Programação aplicada na prática
 
 
- ## 📫 Como entrar em contato
+ ## 📫 Como Entrar em Contato
  
--E-mail: (gionanilenoir@gmail.com)
--LinkedIn: (https://www.linkedin.com/in/giovani-lenoir-677039316)
--GitHub: (https://github.com/GiovaniLenoir/GiovaniLenoir)
-
+📧 **E-mail:** gionanilenoir@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/giovani-lenoir-677039316  
+🐙 **GitHub:** https://github.com/GiovaniLenoir  
 
 ## 🌱 Meus Interesses
 
