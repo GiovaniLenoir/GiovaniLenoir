@@ -1,32 +1,55 @@
 # Olá, eu sou o Giovani 👋
 
-Estou cursando Desenvolvimento de Sistemas no Senai 
+Olá! Eu sou o Giovani e estou cursando **Desenvolvimento de Sistemas no SENAI**.  
+Atualmente estudo **Java**, **Modelagem de Sistemas**, bancos de dados e fundamentos de programação.
 
-Estou estudando a linguagem Java 
+Busco minha primeira oportunidade na área de **Desenvolvimento** ou **Suporte Técnico**, aplicando o que venho aprendendo e evoluindo meus conhecimentos todos os dias.
 
-Estou estudando Modelagem de Sistemas
 
 ## 🛠️ Minhas habilidades
 
-**Linguagem de Programação**: Java
+## 🛠️ Habilidades Técnicas
 
-**Banco de dados**: MySQL, HeidiSQL
+- Lógica de Programação
+  
+- Modelagem de Sistemas
+  
+- Desenvolvimento Web (HTML, CSS, JavaScript)
+  
+- Java
+  
+- Node.js
+  
+- MySQL (Banco de Dados)
+  
+- Git e GitHub
+  
+- Programação de Aplicativos
+  
+- Internet das Coisas (IoT)
+  
+- Docker
+  
+- Eletroeletrônica  
 
-**Ferramentas**: Git, GitHub
 
 ## 🚀 Meus Projetos
 
 [**CRUD Gerenciamento de produtos em java puro**](https://github.com/GiovaniLenoir/GiovaniLenoir)):Este é um sistema simples que permite que os usuários cadastrem, busquem, atualizem e excluam produtos.
 
-## 💼 Experiência Profissional
+-Mais projetos voce acompanha em meu GitHub.
 
-**Desenvolvimento de Sistemas** 
+# 🎓 Formação e Experiência Prática
 
--Cursando Desenvolvimento de sistemas em Java.
-
--Gerenciamento de banco de dados MySQL e HeidiSQL.
-
--Cursando Modelagem de Sistemas.
+- 🎓 **Cursando Desenvolvimento de Sistemas – SENAI**
+  
+- 📘 Desenvolvimento de projetos em **Java**
+  
+- 🗄️ Administração de banco de dados com **MySQL e HeidiSQL**
+  
+- 🧩 Modelagem de Sistemas (UML, Casos de Uso, Diagramas)
+  
+- 🧠 Lógica de Programação aplicada na prática
 
  ## 📫 Como entrar em contato
  
@@ -37,8 +60,6 @@ Estou estudando Modelagem de Sistemas
   -GitHub: (https://github.com/GiovaniLenoir/GiovaniLenoir)
 
 ## 🌱 Meus Interesses
-
--Aprender Python, HTML, JavaScript.
 
 -Aprender inteligência artificial e segurança da informação.
 
